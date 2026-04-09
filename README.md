@@ -1,6 +1,8 @@
 # Contavo 🦥
 
-<img src="./assets/demo.gif" width="300"/>
+<p align="center">
+  <img src="./assets/demo.gif" width="300"/>
+</p>
 
 Tavo 🦥 lets you control your money and your time directly from WhatsApp — even if your income changes every month.
 
