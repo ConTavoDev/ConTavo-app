@@ -1,43 +1,32 @@
-# ConTavo
-Tavo 🦥 is a WhatsApp-based financial assistant that helps you control your money and your time — especially if your income changes every month. You can log expenses, schedule reminders, get summaries, and manage your information from a complementary mobile app.
+# Contavo 🦥
 
-It is designed for people who don’t want to use spreadsheets or complex apps to stay on top of their finances.
+![Contavo demo](./assets/demo.gif)
 
----
-
-## Who is it for?
-
-Contavo is built for:
-
-- Freelancers  
-- Independent workers  
-- Salespeople with commissions  
-- Young adults managing their own money for the first time  
-- Anyone with variable income  
-
-If one month you earn a lot and the next you don’t, Contavo helps you stay in control.
+Tavo 🦥 lets you control your money and your time directly from WhatsApp — even if your income changes every month.
 
 ---
 
-## What does it do?
+## Demo
 
-With Contavo, you can:
+Watch how it works in 30 seconds:  
+https://www.youtube.com/shorts/YOGE9tqjT4Q
 
-- Track expenses by sending a message on WhatsApp  
-- Ask for your balance anytime  
-- Get reminders for payments, bills, or tasks  
-- Manage both your finances and your schedule in one place  
-- Sync with Google Calendar and Outlook  
+---
 
-All without installing a new app.
+## What is Contavo?
+
+Contavo is a WhatsApp-based financial assistant designed for people with variable income.
+
+Instead of using spreadsheets or complex apps, you simply send messages to track your finances and manage your time.
 
 ---
 
 ## How it works
 
-You just talk to it like you would in WhatsApp:
+You interact with Contavo just like a normal WhatsApp chat:
 
 **Track a spending**
+
 I spent 25k on lunch
 
 
@@ -51,7 +40,19 @@ Remind me to pay rent on Friday
 How much can I spend today?
 
 
-Contavo processes it and gives you clear, useful answers instantly.
+Contavo processes your messages and gives you clear, useful answers instantly.
+
+---
+
+## Who is it for?
+
+- Freelancers  
+- Independent workers  
+- Salespeople with commissions  
+- Young adults managing their own finances  
+- Anyone with variable income  
+
+If your income changes month to month, Contavo helps you stay in control.
 
 ---
 
@@ -62,8 +63,8 @@ Most financial tools assume stable income and require discipline.
 Contavo is different:
 
 - Built for variable income  
-- Works inside WhatsApp (no friction)  
-- Combines money + reminders + agenda  
+- Works directly in WhatsApp (no friction)  
+- Combines finances, reminders, and agenda  
 - Designed for real-life usage, not perfect habits  
 
 Without a simple system, it’s easy to overspend when things go well and run short later.
@@ -72,15 +73,7 @@ Without a simple system, it’s easy to overspend when things go well and run sh
 
 ## Try it
 
-👉 https://con-tavo.com/
-
----
-
-## Demo
-
-Watch how it works:
-
-https://www.youtube.com/@ConTavo-k1h
+https://con-tavo.com/
 
 ---
 
@@ -108,4 +101,4 @@ Contavo can be described as:
 - A financial assistant for WhatsApp  
 - A tool to manage variable income  
 - An alternative to spreadsheets for personal finance  
-- A simple way to track expenses and reminders in one place
+- A simple way to track expenses and reminders in one place  
